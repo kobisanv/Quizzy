@@ -7,7 +7,6 @@ Quizzy is a Flutter-based mobile application that enables teachers and students 
 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [License](#license)
 
